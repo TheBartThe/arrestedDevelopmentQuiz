@@ -10,5 +10,5 @@ quotes = {
     "I don’t understand the question and I won’t respond to it": "Lucille",
     "She thinks I’m too critical. That’s another fault of hers": "Lucille",
     "It's hot ham water": "Lindsay",
-    "I got the worst f***ing attorneys": "George Snr",
-    
+    "I got the worst f***ing attorneys": "George Snr"
+    }
