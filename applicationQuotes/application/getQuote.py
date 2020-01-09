@@ -25,7 +25,7 @@ def getRandomCharacter():
     return random.choice(list(quotes.values()))
 
 def characterChoices():
-    characters = [getRandomQuote]
+    characters = [getRandomQuote()]
     characters.append(quotes.get(quote))
     while (len(characters) < 5):
         randCharacter = getRandomCharacter()

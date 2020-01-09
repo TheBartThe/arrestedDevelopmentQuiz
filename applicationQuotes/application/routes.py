@@ -4,7 +4,7 @@ import requests
 from getQuote import getRandomQuote, characterChoices
 
 @app.route('/', methods=["GET"])
-def characters(quote):
+def characters():
     return characterChoices()
 
 #@app.route('/character/<string:quote>', methods=["GET"])
